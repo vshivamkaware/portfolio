@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://shivai.softvuetechnology.in
+
+# Sitemaps
+Sitemap: https://shivai.softvuetechnology.in/sitemap.xml
